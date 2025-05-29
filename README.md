@@ -2,6 +2,8 @@
 
 ### :man_technologist: About Me :
 
+<img src="https://komarev.com/ghpvc/?username=NikolausA&style=flat&color=blue" alt=""/>
+
 <!--
 **NikolausA/NikolausA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

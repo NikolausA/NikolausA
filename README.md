@@ -9,7 +9,7 @@
 
 🤝 Убежден, что сильные продукты создаются в сильных командах. Ценю открытое взаимодействие, взаимоуважение и атмосферу сотрудничества, в которой каждый участник может раскрыть свой потенциал.
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и библиотеки :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -33,7 +33,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=NikolausA&style=flat&color=blue" alt=""/>
+---
+<div align="center>
+  <img src="https://komarev.com/ghpvc/?username=NikolausA&style=flat&color=blue" alt=""/>
+</div>
 
 <!--
 **NikolausA/NikolausA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
